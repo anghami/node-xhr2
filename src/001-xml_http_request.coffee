@@ -366,14 +366,14 @@ class XMLHttpRequest extends XMLHttpRequestEventTarget
       'access-control-request-method': true
       connection: true
       'content-length': true
-      cookie: true
+      # cookie: true
       cookie2: true
       date: true
       dnt: true
       expect: true
       host: true
       'keep-alive': true
-      origin: true
+      # origin: true
       referer: true
       te: true
       trailer: true
